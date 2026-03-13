@@ -1,1 +1,0 @@
-Array Size: 512, Threshold: 8, Time: 0.398000 ms
